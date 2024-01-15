@@ -20,7 +20,7 @@ redirect_from:
 I'm an associate professor and now a senior security researcher at the Institute of Innovation in NSFOCUS. I obtained my PhD degree from University of Chinese Academy of Sciences, mentored by Prof. Jinlin Wang and Prof. Xiao Chen. I was a postdoctoral scholar in the School of Information Science and Technology, Tsinghua University during the years 2018 and 2021. I was awarded Beijing Nova Program (北京市科技新星) in 2021.
 
 <p>
-My research interests focus on </b>trustworthy AI for Cybersecurity</b> and </b>data-driven threat hunting</b>. I'm now leading the </b>AISecOps</b> team, which targets at the cross research area of AISec, AIOps and SecOps. 
+My research interests focus on <b>trustworthy AI for Cybersecurity</b> and <b>data-driven threat hunting</b>. I'm now leading the <b>AISecOps</b> team, which targets at the cross research area of AISec, AIOps and SecOps. 
 I am now working on several directions including: 
 </p>
 <div>
