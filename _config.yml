@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Runzi Zhang"
-  avatar           : "me.png"
+  avatar           : "images/me.png"
   bio              : "张润滋"
   location         : "Beijing, China"
   employer         :
