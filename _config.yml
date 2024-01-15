@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "cyberaiti"
-description              : "cyberaiti's home page. "
+title                    : "Runzi Zhang"
+description              : "I am now an Associate Professor & Senior Security Researcher."
 repository               : "cyberaiti/cyberaiti.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "cyberaiti"
+  name             : "Runzi Zhang"
   avatar           : "me.png"
-  bio              : "I am now an Associate Professor & Senior Researcher at NSFOCUS."
+  bio              : "张润滋"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=MkekzsUAAAAJ&hl=en"
-  email            : "cyberaiti@163.com"
+  email            : "runzi_zhang@163.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

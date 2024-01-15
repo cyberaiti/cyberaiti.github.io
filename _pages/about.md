@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /cn
 title: ""
 excerpt: ""
 author_profile: true
@@ -17,42 +17,76 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I'm an associate professor and now a senior security researcher at the Institute of Innovation in NSFOCUS. I obtained my PhD degree from University of Chinese Academy of Sciences, mentored by Prof. Jinlin Wang and Prof. Xiao Chen. I was a postdoctoral scholar in the School of Information Science and Technology, Tsinghua University during the years 2018 and 2021. I was awarded Beijing Nova Program (北京市科技新星) in 2021.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+<p>
+My research interests focus on </b>trustworthy AI for Cybersecurity</b> and </b>data-driven threat hunting</b>. I'm now leading the </b>AISecOps</b> team, which targets at the cross research area of AISec, AIOps and SecOps. 
+I am now working on several directions including: 
+</p>
+<div>
+<ul>
+<li><b>Provenance Graph Mining</b></li>                  
+<li><b>Alert Prioritization</b></li>
+<li><b>Security Knowledge Graph</b></li>
+<li><b>Security Specific LLMs</b></li>
+</ul>
+</div>
 
-
-# 🔥 News
+<!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- Liu J, Zhang R, Liu W, et al. Context2Vector: Accelerating security event triage via context representation learning[J]. Information and Software Technology, 2022, 146: 106856.（SCI二区，影响因子3.862，软件工程CCF B类期刊，可解释人工智能+智能运维领域方向）
+- Zhang R, Tong M, Chen L, et al. CMIRGen: Automatic Signature Generation Algorithm for Malicious Network Traffic[C]. 2020 IEEE 19th International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom), 2020: 736-743.（信息安全CCF C类会议，XAIGen项目代码已开源，可解释人工智能+流量分析方向）
+- 张润滋,刘文懋, 尤扬, 解烽. AISecOps自动化能力分级与技术趋势研究[J]. 信息网络安全, 2020, 20(9): 22-26.（中文北大核心，智能安全运营方向）
+- 张润滋,刘文懋. AISecOps智能安全运营技术体系框架[J]. 数据与计算发展前沿, 2021, 3(3): 32-47.（提出AISecOps框架，智能安全运营方向）
+- 张润滋,康彬. 数据驱动的威胁狩猎语言模型研究进展[J]. 数据与计算发展前沿, 2022, 4(5): 98-107.（智能威胁分析方向）
+- Zhang R, Wang J, Chen X, et al. EDW-voting: Robust realtime traffic classification combined with flow side information[C]. 2018 Tenth International Conference on Advanced Computational Intelligence (ICACI), 2018: 438-442.（EI会议，人工智能+网络流量分析方向）
+- Zhang R, Wang J, Sheng Y, et al. Protocol-aware packet scheduling algorithm for multi-protocol processing in multi-core MPL architecture[J]. IEICE TRANSACTIONS on Information and Systems, 2017, 100(12): 2837-2846.（SCI四区，网络调度优化方向）
+- Li J, Li T, Zhang R, et al. APM: An Attack Path-based Method for APT Attack Detection on Few-Shot Learning[C]. 2023 IEEE 22th International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom).（信息安全CCF C类会议，智能威胁分析方向）
+- Li Z, Li T, Zhang R, et al. A Novel Network Alert Classification Model based on Behavior Semantic[C]. SEKE, 2022: 553-558.（信息安全CCF C类会议，智能安全运营方向）
+- Liu X, Li T, Zhang R, et al. A GAN and feature selection-based oversampling technique for intrusion detection[J]. Security and Communication Networks, 2021, 2021: 1-15.（SCI四区，智能威胁分析方向）
+- Tong M, Li G, Zhang R, et al. Far from classification algorithm: dive into the preprocessing stage in DGA detection[C]. 2020 IEEE 19th International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom), 2020: 468-474.（信息安全CCF C类会议，人工智能+域名分析方向）
+- 薛见新,王星凯,张润滋等.基于异构属性图的自动化攻击行为语义识别方法[J].信息安全研究,2022,8(03):292-300.（中文科技核心，人工智能+威胁检测方向）
+- 陈磊,薛见新,张润滋等.基于信息熵的数据集重标识风险评估方法[J].信息技术与网络安全,2020,39(12):1-6+12.DOI:10.19358/j.issn.2096-5133.2020.12.001.（中文科技核心，数据安全方向）
+- Zhao Z, Niu W, Zhang X, et al. Trine: Syslog anomaly detection with three transformer encoders in one generative adversarial network[J]. Applied Intelligence, 2022, 52(8): 8810-8819.（SCI二区，影响因子5.3，人工智能CCF C类期刊，人工智能+终端威胁分析方向）
+- Li X, Niu W, Zhang X, Zhang R, et al. Improving Performance of Log Anomaly Detection With Semantic and Time Features Based on BiLSTM-Attention[C]. 2021 2nd International Conference on Electronics, Communications and Information Technology (CECIT), 2021: 661-666.（EI会议，智能日志分析方向）
+- Niu W, Yu Z, Li Z, et al. LogTracer: Efficient Anomaly Tracing Combining System Log Detection and Provenance Graph[C]. GLOBECOM 2022-2022 IEEE Global Communications Conference, 2022: 3356-3361.（网络通信CCF C类会议，人工智能+终端威胁分析方向）
+- Wang G, Li T, Yue H, et al. Integrating Heterogeneous Security Knowledge Sources for Comprehensive Security Analysis[C]. 2021 IEEE 45th Annual Computers, Software, and Applications Conference (COMPSAC), 2021: 714-724.（信息安全CCF C类会议，知识图谱+安全建模方向）
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023*, 2022年度北京市科学技术奖科学技术进步奖二等奖
+- *2023*, 第六届强网杯全国网络安全挑战赛 人工之智能专项赛 加密流量赛道 第二名 二等奖 （国家级）
+- *2023*, 第六届强网杯全国网络安全挑战赛 人工之智能专项赛 智能渗透赛道 第三名 二等奖 （国家级）
+- *2023*, 第六届强网杯全国网络安全挑战赛 人工之智能专项赛 智能渗透赛道 优秀指导教师  （国家级）
+- *2022*, 入选2022年中国科协智库青年人才计划
+- *2022*, 2022年中国计算机学会CCF科技成果奖科技进步二等奖
+- *2022*, 《面向网络空间安全治理运营的可信任人工智能关键技术》 2022年科技部全国颠覆性技术创新大赛领域赛优秀奖
+- *2022*, 第一届中国科技青年论坛 中国科学技术协会 优秀奖
+- *2022*, 中国人工智能产业发展联盟，人工智能关键技术和应用评测重点实验室 突出贡献个人
+- *2021*, 第一届清华大学博士后创新创业大赛 清华大学 优胜奖
+- *2021*, 入选北京市科技新星人才计划（市财政经费支持，市科委、中关村管委会组织实施的青年科技人才培养计划）
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 📖 White Papers
+- *2023.09*, 《安全行业大模型SecLLM技术》
+- *2021.11*, 《安全知识图谱技术白皮书》
+- *2020.12*, 《AISecOps智能安全运营技术白皮书》
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+<!-- - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2023.06*, 《ChatGPT等AI大模型对网络安全的机遇与挑战》工联安全大讲堂
+- *2022.08*, 《名侦探的下午茶：Hunting with Provenance》 KCon 2022
+- *2022.02*, 《From AISec to AISecOps：安全智能应用之道》 网络安全创新大会2021
+- *2020.08*, 《打造风险驱动的智能威胁推荐引擎》 XCON 2020 
+- *2020.10*, 《AISecOps智能安全运营技术体系与实践》 网络安全创新大会 2020
+- *2019.11*, XAI与可信任安全智能》 网络安全创新大会 2019
+- *2019.10*, 《基于可信线索挖掘的威胁狩猎》 INSEC WORLD 2019
+
+<!-- # 💻 Internships
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
