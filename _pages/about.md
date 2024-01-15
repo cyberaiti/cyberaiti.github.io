@@ -17,16 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm an associate professor and now a senior security researcher at the Institute of Innovation in NSFOCUS. I obtained my PhD degree from University of Chinese Academy of Sciences, mentored by Prof. Jinlin Wang and Prof. Xiao Chen. I was a postdoctoral scholar in the School of Information Science and Technology, Tsinghua University during the years 2018 and 2021. I was awarded Beijing Nova Program (北京市科技新星) in 2021.
+I'm an associate professor and currently work as a senior security researcher at the Institute of Innovation in NSFOCUS. I obtained my PhD degree in 2018 from the University of Chinese Academy of Sciences, mentored by Prof. Jinlin Wang and Prof. Xiao Chen. I was a postdoctoral scholar in the School of Information Science and Technology at Tsinghua University from 2018 to 2021. I was selected for the Beijing Nova Program (北京市科技新星计划) in 2021.
 
 My research interests focus on trustworthy AI for Cybersecurity and data-driven threat hunting. I'm now leading the AISecOps team, which targets at the cross research area of AISec, AIOps and SecOps. 
 I am now working on several directions including: 
 
 <div>
-<ul>
-<li><b>Provenance Graph Mining</b></li>                  
+<ul>              
 <li><b>Alert Prioritization</b></li>
 <li><b>Security Knowledge Graph</b></li>
+<li><b>Provenance Graph Mining</b></li>    
 <li><b>Security Specific LLMs</b></li>
 </ul>
 </div>
@@ -36,26 +36,22 @@ I am now working on several directions including:
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
-
-<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
-
-- Liu J, Zhang R, Liu W, et al. Context2Vector: Accelerating security event triage via context representation learning[J]. Information and Software Technology, 2022, 146: 106856.（SCI二区，影响因子3.862，软件工程CCF B类期刊，可解释人工智能+智能运维领域方向）
-- Zhang R, Tong M, Chen L, et al. CMIRGen: Automatic Signature Generation Algorithm for Malicious Network Traffic[C]. 2020 IEEE 19th International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom), 2020: 736-743.（信息安全CCF C类会议，XAIGen项目代码已开源，可解释人工智能+流量分析方向）
-- 张润滋,刘文懋, 尤扬, 解烽. AISecOps自动化能力分级与技术趋势研究[J]. 信息网络安全, 2020, 20(9): 22-26.（中文北大核心，智能安全运营方向）
-- 张润滋,刘文懋. AISecOps智能安全运营技术体系框架[J]. 数据与计算发展前沿, 2021, 3(3): 32-47.（提出AISecOps框架，智能安全运营方向）
+- Liu J, Zhang R*, Liu W, et al. Context2Vector: Accelerating security event triage via context representation learning[J]. Information and Software Technology, 2022, 146: 106856.（SCI二区，影响因子3.862，软件工程CCF B类期刊，可解释人工智能+智能运维领域方向）
 - 张润滋,康彬. 数据驱动的威胁狩猎语言模型研究进展[J]. 数据与计算发展前沿, 2022, 4(5): 98-107.（智能威胁分析方向）
-- Zhang R, Wang J, Chen X, et al. EDW-voting: Robust realtime traffic classification combined with flow side information[C]. 2018 Tenth International Conference on Advanced Computational Intelligence (ICACI), 2018: 438-442.（EI会议，人工智能+网络流量分析方向）
-- Zhang R, Wang J, Sheng Y, et al. Protocol-aware packet scheduling algorithm for multi-protocol processing in multi-core MPL architecture[J]. IEICE TRANSACTIONS on Information and Systems, 2017, 100(12): 2837-2846.（SCI四区，网络调度优化方向）
 - Li J, Li T, Zhang R, et al. APM: An Attack Path-based Method for APT Attack Detection on Few-Shot Learning[C]. 2023 IEEE 22th International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom).（信息安全CCF C类会议，智能威胁分析方向）
 - Li Z, Li T, Zhang R, et al. A Novel Network Alert Classification Model based on Behavior Semantic[C]. SEKE, 2022: 553-558.（信息安全CCF C类会议，智能安全运营方向）
-- Liu X, Li T, Zhang R, et al. A GAN and feature selection-based oversampling technique for intrusion detection[J]. Security and Communication Networks, 2021, 2021: 1-15.（SCI四区，智能威胁分析方向）
-- Tong M, Li G, Zhang R, et al. Far from classification algorithm: dive into the preprocessing stage in DGA detection[C]. 2020 IEEE 19th International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom), 2020: 468-474.（信息安全CCF C类会议，人工智能+域名分析方向）
 - 薛见新,王星凯,张润滋等.基于异构属性图的自动化攻击行为语义识别方法[J].信息安全研究,2022,8(03):292-300.（中文科技核心，人工智能+威胁检测方向）
-- 陈磊,薛见新,张润滋等.基于信息熵的数据集重标识风险评估方法[J].信息技术与网络安全,2020,39(12):1-6+12.DOI:10.19358/j.issn.2096-5133.2020.12.001.（中文科技核心，数据安全方向）
+- Niu W, Yu Z, Li Z, Li B, Zhang R, et al. LogTracer: Efficient Anomaly Tracing Combining System Log Detection and Provenance Graph[C]. GLOBECOM 2022-2022 IEEE Global Communications Conference, 2022: 3356-3361.（网络通信CCF C类会议，人工智能+终端威胁分析方向）
 - Zhao Z, Niu W, Zhang X, et al. Trine: Syslog anomaly detection with three transformer encoders in one generative adversarial network[J]. Applied Intelligence, 2022, 52(8): 8810-8819.（SCI二区，影响因子5.3，人工智能CCF C类期刊，人工智能+终端威胁分析方向）
+- Liu X, Li T, Zhang R, et al. A GAN and feature selection-based oversampling technique for intrusion detection[J]. Security and Communication Networks, 2021, 2021: 1-15.（SCI四区，智能威胁分析方向）
 - Li X, Niu W, Zhang X, Zhang R, et al. Improving Performance of Log Anomaly Detection With Semantic and Time Features Based on BiLSTM-Attention[C]. 2021 2nd International Conference on Electronics, Communications and Information Technology (CECIT), 2021: 661-666.（EI会议，智能日志分析方向）
-- Niu W, Yu Z, Li Z, et al. LogTracer: Efficient Anomaly Tracing Combining System Log Detection and Provenance Graph[C]. GLOBECOM 2022-2022 IEEE Global Communications Conference, 2022: 3356-3361.（网络通信CCF C类会议，人工智能+终端威胁分析方向）
-- Wang G, Li T, Yue H, et al. Integrating Heterogeneous Security Knowledge Sources for Comprehensive Security Analysis[C]. 2021 IEEE 45th Annual Computers, Software, and Applications Conference (COMPSAC), 2021: 714-724.（信息安全CCF C类会议，知识图谱+安全建模方向）
+- Wang G, Li T, Yue H, Yang Z, Zhang R, et al. Integrating Heterogeneous Security Knowledge Sources for Comprehensive Security Analysis[C]. 2021 IEEE 45th Annual Computers, Software, and Applications Conference (COMPSAC), 2021: 714-724.（信息安全CCF C类会议，知识图谱+安全建模方向）
+- 张润滋,刘文懋. AISecOps智能安全运营技术体系框架[J]. 数据与计算发展前沿, 2021, 3(3): 32-47.（提出AISecOps框架，智能安全运营方向）
+- Zhang R, Tong M, Chen L, et al. CMIRGen: Automatic Signature Generation Algorithm for Malicious Network Traffic[C]. 2020 IEEE 19th International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom), 2020: 736-743.（信息安全CCF C类会议，XAIGen项目代码已开源，可解释人工智能+流量分析方向）
+- Tong M, Li G, Zhang R, et al. Far from classification algorithm: dive into the preprocessing stage in DGA detection[C]. 2020 IEEE 19th International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom), 2020: 468-474.（信息安全CCF C类会议，人工智能+域名分析方向）
+- 陈磊,薛见新,张润滋等.基于信息熵的数据集重标识风险评估方法[J].信息技术与网络安全,2020,39(12):1-6+12.DOI:10.19358/j.issn.2096-5133.2020.12.001.（中文核心，数据安全方向）
+- Zhang R, Wang J, Chen X, et al. EDW-voting: Robust realtime traffic classification combined with flow side information[C]. 2018 Tenth International Conference on Advanced Computational Intelligence (ICACI), 2018: 438-442.（EI会议，人工智能+网络流量分析方向）
+- Zhang R, Wang J, Sheng Y, et al. Protocol-aware packet scheduling algorithm for multi-protocol processing in multi-core MPL architecture[J]. IEICE TRANSACTIONS on Information and Systems, 2017, 100(12): 2837-2846.（SCI四区，网络调度优化方向）
 
 # 📖 White Papers
 - *2023.09*, 《安全行业大模型SecLLM技术》
