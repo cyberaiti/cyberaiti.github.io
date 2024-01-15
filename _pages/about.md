@@ -1,5 +1,5 @@
 ---
-permalink: /cn
+permalink: /
 title: ""
 excerpt: ""
 author_profile: true
@@ -58,19 +58,6 @@ I am now working on several directions including:
 - Niu W, Yu Z, Li Z, et al. LogTracer: Efficient Anomaly Tracing Combining System Log Detection and Provenance Graph[C]. GLOBECOM 2022-2022 IEEE Global Communications Conference, 2022: 3356-3361.（网络通信CCF C类会议，人工智能+终端威胁分析方向）
 - Wang G, Li T, Yue H, et al. Integrating Heterogeneous Security Knowledge Sources for Comprehensive Security Analysis[C]. 2021 IEEE 45th Annual Computers, Software, and Applications Conference (COMPSAC), 2021: 714-724.（信息安全CCF C类会议，知识图谱+安全建模方向）
 
-# 🎖 Honors and Awards
-- *2023*, 2022年度北京市科学技术奖科学技术进步奖二等奖
-- *2023*, 第六届强网杯全国网络安全挑战赛 人工之智能专项赛 加密流量赛道 第二名 二等奖 （国家级）
-- *2023*, 第六届强网杯全国网络安全挑战赛 人工之智能专项赛 智能渗透赛道 第三名 二等奖 （国家级）
-- *2023*, 第六届强网杯全国网络安全挑战赛 人工之智能专项赛 智能渗透赛道 优秀指导教师  （国家级）
-- *2022*, 入选2022年中国科协智库青年人才计划
-- *2022*, 2022年中国计算机学会CCF科技成果奖科技进步二等奖
-- *2022*, 《面向网络空间安全治理运营的可信任人工智能关键技术》 2022年科技部全国颠覆性技术创新大赛领域赛优秀奖
-- *2022*, 第一届中国科技青年论坛 中国科学技术协会 优秀奖
-- *2022*, 中国人工智能产业发展联盟，人工智能关键技术和应用评测重点实验室 突出贡献个人
-- *2021*, 第一届清华大学博士后创新创业大赛 清华大学 优胜奖
-- *2021*, 入选北京市科技新星人才计划（市财政经费支持，市科委、中关村管委会组织实施的青年科技人才培养计划）
-
 # 📖 White Papers
 - *2023.09*, 《安全行业大模型SecLLM技术》
 - *2021.11*, 《安全知识图谱技术白皮书》
@@ -88,5 +75,15 @@ I am now working on several directions including:
 - *2019.11*, XAI与可信任安全智能》 网络安全创新大会 2019
 - *2019.10*, 《基于可信线索挖掘的威胁狩猎》 INSEC WORLD 2019
 
-<!-- # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+# 🎖 Honors and Awards
+- *2023*, 2022年度北京市科学技术奖科学技术进步奖二等奖
+- *2023*, 第六届强网杯全国网络安全挑战赛 人工之智能专项赛 加密流量赛道 第二名 二等奖 （国家级）
+- *2023*, 第六届强网杯全国网络安全挑战赛 人工之智能专项赛 智能渗透赛道 第三名 二等奖 （国家级）
+- *2023*, 第六届强网杯全国网络安全挑战赛 人工之智能专项赛 智能渗透赛道 优秀指导教师  （国家级）
+- *2022*, 入选2022年中国科协智库青年人才计划
+- *2022*, 2022年中国计算机学会CCF科技成果奖科技进步二等奖
+- *2022*, 2022年科技部全国颠覆性技术创新大赛领域赛优秀奖
+- *2022*, 第一届中国科技青年论坛 中国科学技术协会 优秀奖
+- *2022*, 中国人工智能产业发展联盟，人工智能关键技术和应用评测重点实验室 突出贡献个人
+- *2021*, 第一届清华大学博士后创新创业大赛 清华大学 优胜奖
+- *2021*, 入选北京市科技新星人才计划（市财政经费支持，市科委、中关村管委会组织实施的青年科技人才培养计划）
