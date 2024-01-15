@@ -27,7 +27,7 @@ I am now working on several directions including:
 <li><b>Alert Prioritization</b></li>
 <li><b>Security Knowledge Graph</b></li>
 <li><b>Provenance Graph Mining</b></li>    
-<li><b>Security Specific LLMs</b></li>
+<li><b>LLMs for Security</b></li>
 </ul>
 </div>
 
