@@ -67,7 +67,7 @@ I am now working on several directions including:
 - *2022.02*, 《From AISec to AISecOps：安全智能应用之道》 网络安全创新大会2021
 - *2020.08*, 《打造风险驱动的智能威胁推荐引擎》 XCON 2020 
 - *2020.10*, 《AISecOps智能安全运营技术体系与实践》 网络安全创新大会 2020
-- *2019.11*, XAI与可信任安全智能》 网络安全创新大会 2019
+- *2019.11*, 《XAI与可信任安全智能》 网络安全创新大会 2019
 - *2019.10*, 《基于可信线索挖掘的威胁狩猎》 INSEC WORLD 2019
 
 # 🎖 Honors and Awards
