@@ -2,15 +2,15 @@
 main:
   - title: "About Me"
     url: "/#about-me"
-
- - title: "Publications"
+    
+  - title: "Publications"
     url: "/#-publications"
-
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
 
   - title: "White Papers"
     url: "/#-white-papers"
+
+  - title: "Invited Talks"
+    url: "/#-invited-talks"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
