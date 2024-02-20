@@ -36,6 +36,8 @@ I am now working on several directions including:
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
+- Hao Yue, Tong Li, Di Wu, Runzi Zhang, et al. Detecting APT attacks using an attack intent-driven and sequence-based learning approach[J]. Computers & Security, 2024, 140: 103748.（SCI二区，影响因子5.6，网络与信息安全CCF B类期刊，人工智能+终端威胁分析方向）
+- 王维靖，陈俊洁，杨林，侯德俊，王星凯，吴复迪，张润滋等.基于多元数据融合的网络侧告警排序方法[J].软件学报,2024, 35(8):0-0.（EI，中文核心，智能运维领域方向）
 - Liu J, Zhang R*, Liu W, et al. Context2Vector: Accelerating security event triage via context representation learning[J]. Information and Software Technology, 2022, 146: 106856.（SCI二区，影响因子3.862，软件工程CCF B类期刊，可解释人工智能+智能运维领域方向）
 - 张润滋,康彬. 数据驱动的威胁狩猎语言模型研究进展[J]. 数据与计算发展前沿, 2022, 4(5): 98-107.（智能威胁分析方向）
 - Li J, Li T, Zhang R, et al. APM: An Attack Path-based Method for APT Attack Detection on Few-Shot Learning[C]. 2023 IEEE 22th International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom).（信息安全CCF C类会议，智能威胁分析方向）
