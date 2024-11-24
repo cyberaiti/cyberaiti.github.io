@@ -35,7 +35,7 @@ My research interests focus on trustworthy AI for Cybersecurity. I am now workin
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
-- Liu Y, Li T*, Zhang R*, et al. A Context-Aware Clustering Approach for Assisting Operators in Classifying Security Alerts[J]. IEEE Transactions on Software Engineering, 2024 Nov 1(01):1-8. （SCI一区，影响因子6.5，软件工程CCF A类期刊，人工智能+智能安全运营方向）
+- Liu Y, Li T&ast;, Zhang R&ast;, et al. A Context-Aware Clustering Approach for Assisting Operators in Classifying Security Alerts[J]. IEEE Transactions on Software Engineering, 2024 Nov 1(01):1-8. （SCI一区，影响因子6.5，软件工程CCF A类期刊，人工智能+智能安全运营方向）
 - Yue H, Li T, Wu D, Zhang R, et al. Detecting APT attacks using an attack intent-driven and sequence-based learning approach[J]. Computers & Security, 2024, 140: 103748.（SCI二区，影响因子5.6，网络与信息安全CCF B类期刊，人工智能+终端威胁分析方向）
 - 王维靖，陈俊洁，杨林，侯德俊，王星凯，吴复迪，张润滋等.基于多元数据融合的网络侧告警排序方法[J].软件学报,2024, 35(8):0-0.（EI，中文核心，智能运维领域方向）
 - Liu J, Zhang R*, Liu W, et al. Context2Vector: Accelerating security event triage via context representation learning[J]. Information and Software Technology, 2022, 146: 106856.（SCI二区，影响因子3.862，软件工程CCF B类期刊，可解释人工智能+智能运维领域方向）
