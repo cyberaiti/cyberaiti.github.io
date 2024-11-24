@@ -17,17 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm an associate professor and currently work as a senior security researcher at the Institute of Innovation in NSFOCUS. I obtained my PhD degree in 2018 from the University of Chinese Academy of Sciences, mentored by Prof. Jinlin Wang and Prof. Xiao Chen. I was a postdoctoral scholar in the School of Information Science and Technology at Tsinghua University from 2018 to 2021. I was selected for the Beijing Nova Program (北京市科技新星计划) in 2021.
+I am currently an Associate Professor at the Institute of Data Intelligence and Cybersecurity, Communication University of China. Previously, I served as a Senior Security Researcher at NSFOCUS, where I led a research team called the AISecOps team, which targeted at the cross research area of AISec, AIOps and SecOps. I obtained my PhD degree in 2018 from the University of Chinese Academy of Sciences, mentored by Prof. Jinlin Wang and Prof. Xiao Chen. I was a postdoctoral scholar in the School of Information Science and Technology at Tsinghua University from 2018 to 2021. I was selected for the Beijing Nova Program (北京市科技新星计划) in 2021.
 
-My research interests focus on trustworthy AI for Cybersecurity and data-driven threat hunting. I'm now leading the AISecOps team, which targets at the cross research area of AISec, AIOps and SecOps. 
-I am now working on several directions including: 
+My research interests focus on trustworthy AI for Cybersecurity. I am now working on several directions including: 
 
 <div>
-<ul>              
+<ul>          
+<li><b>LLMs for Security</b></li>
 <li><b>Alert Prioritization</b></li>
 <li><b>Security Knowledge Graph</b></li>
 <li><b>Provenance Graph Mining</b></li>    
-<li><b>LLMs for Security</b></li>
 </ul>
 </div>
 
@@ -36,7 +35,8 @@ I am now working on several directions including:
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
-- Hao Yue, Tong Li, Di Wu, Runzi Zhang, et al. Detecting APT attacks using an attack intent-driven and sequence-based learning approach[J]. Computers & Security, 2024, 140: 103748.（SCI二区，影响因子5.6，网络与信息安全CCF B类期刊，人工智能+终端威胁分析方向）
+- Liu Y, Li T*, Zhang R*, et al. A Context-Aware Clustering Approach for Assisting Operators in Classifying Security Alerts[J]. IEEE Transactions on Software Engineering, 2024 Nov 1(01):1-8. （SCI一区，影响因子6.5，软件工程CCF A类期刊，人工智能+智能安全运营方向）
+- Yue H, Li T, Wu D, Zhang R, et al. Detecting APT attacks using an attack intent-driven and sequence-based learning approach[J]. Computers & Security, 2024, 140: 103748.（SCI二区，影响因子5.6，网络与信息安全CCF B类期刊，人工智能+终端威胁分析方向）
 - 王维靖，陈俊洁，杨林，侯德俊，王星凯，吴复迪，张润滋等.基于多元数据融合的网络侧告警排序方法[J].软件学报,2024, 35(8):0-0.（EI，中文核心，智能运维领域方向）
 - Liu J, Zhang R*, Liu W, et al. Context2Vector: Accelerating security event triage via context representation learning[J]. Information and Software Technology, 2022, 146: 106856.（SCI二区，影响因子3.862，软件工程CCF B类期刊，可解释人工智能+智能运维领域方向）
 - 张润滋,康彬. 数据驱动的威胁狩猎语言模型研究进展[J]. 数据与计算发展前沿, 2022, 4(5): 98-107.（智能威胁分析方向）
