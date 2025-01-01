@@ -38,9 +38,10 @@ My research interests focus on trustworthy AI for Cybersecurity. I am now workin
 - Wang J, Li T, Zhang R, et al. VCRLog: Variable Contents Relationship Perception for Log-based Anomaly Detection[C]. 2024 IEEE 35th International Symposium on Software Reliability Engineering (ISSRE), 2024 Oct 28:156-167. （软件工程CCF B类会议，人工智能+智能运维方向）
 - Liu Y, Li T\*, Zhang R\*, et al. A Context-Aware Clustering Approach for Assisting Operators in Classifying Security Alerts[J]. IEEE Transactions on Software Engineering, 2024 Nov 1(01):1-8. （SCI一区，影响因子6.5，软件工程CCF A类期刊，人工智能+智能安全运营方向）
 - Yue H, Li T, Wu D, Zhang R, et al. Detecting APT attacks using an attack intent-driven and sequence-based learning approach[J]. Computers & Security, 2024, 140: 103748.（SCI二区，影响因子5.6，网络与信息安全CCF B类期刊，人工智能+终端威胁分析方向）
-- 王维靖，陈俊洁，杨林，侯德俊，王星凯，吴复迪，张润滋等.基于多元数据融合的网络侧告警排序方法[J].软件学报,2024, 35(8):0-0.（EI，中文核心，智能运维领域方向）
+- 王维靖, 陈俊洁, 杨林, 侯德俊, 王星凯, 吴复迪, 张润滋等.基于多元数据融合的网络侧告警排序方法[J].软件学报,2024, 35(8):0-0.（EI，中文核心，智能运维领域方向）
+- 王星凯, 吴复迪, 童明凯, 薛见新, 张润滋.网络安全告警降噪基线的智能生成方法[J].信息安全研究,2023,9(10):986-992.（北大核心，人工智能+智能拿权运营方向）
 - Liu J, Zhang R*, Liu W, et al. Context2Vector: Accelerating security event triage via context representation learning[J]. Information and Software Technology, 2022, 146: 106856.（SCI二区，影响因子3.862，软件工程CCF B类期刊，可解释人工智能+智能运维领域方向）
-- 张润滋,康彬. 数据驱动的威胁狩猎语言模型研究进展[J]. 数据与计算发展前沿, 2022, 4(5): 98-107.（智能威胁分析方向）
+- 张润滋, 康彬. 数据驱动的威胁狩猎语言模型研究进展[J]. 数据与计算发展前沿, 2022, 4(5): 98-107.（智能威胁分析方向）
 - Li J, Li T, Zhang R, et al. APM: An Attack Path-based Method for APT Attack Detection on Few-Shot Learning[C]. 2023 IEEE 22th International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom).（信息安全CCF C类会议，智能威胁分析方向）
 - Li Z, Li T, Zhang R, et al. A Novel Network Alert Classification Model based on Behavior Semantic[C]. SEKE, 2022: 553-558.（信息安全CCF C类会议，智能安全运营方向）
 - 薛见新,王星凯,张润滋等.基于异构属性图的自动化攻击行为语义识别方法[J].信息安全研究,2022,8(03):292-300.（中文科技核心，人工智能+威胁检测方向）
@@ -49,10 +50,10 @@ My research interests focus on trustworthy AI for Cybersecurity. I am now workin
 - Liu X, Li T, Zhang R, et al. A GAN and feature selection-based oversampling technique for intrusion detection[J]. Security and Communication Networks, 2021, 2021: 1-15.（SCI四区，智能威胁分析方向）
 - Li X, Niu W, Zhang X, Zhang R, et al. Improving Performance of Log Anomaly Detection With Semantic and Time Features Based on BiLSTM-Attention[C]. 2021 2nd International Conference on Electronics, Communications and Information Technology (CECIT), 2021: 661-666.（EI会议，智能日志分析方向）
 - Wang G, Li T, Yue H, Yang Z, Zhang R, et al. Integrating Heterogeneous Security Knowledge Sources for Comprehensive Security Analysis[C]. 2021 IEEE 45th Annual Computers, Software, and Applications Conference (COMPSAC), 2021: 714-724.（信息安全CCF C类会议，知识图谱+安全建模方向）
-- 张润滋,刘文懋. AISecOps智能安全运营技术体系框架[J]. 数据与计算发展前沿, 2021, 3(3): 32-47.（提出AISecOps框架，智能安全运营方向）
+- 张润滋, 刘文懋. AISecOps智能安全运营技术体系框架[J]. 数据与计算发展前沿, 2021, 3(3): 32-47.（提出AISecOps框架，智能安全运营方向）
 - Zhang R, Tong M, Chen L, et al. CMIRGen: Automatic Signature Generation Algorithm for Malicious Network Traffic[C]. 2020 IEEE 19th International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom), 2020: 736-743.（信息安全CCF C类会议，XAIGen项目代码已开源，可解释人工智能+流量分析方向）
 - Tong M, Li G, Zhang R, et al. Far from classification algorithm: dive into the preprocessing stage in DGA detection[C]. 2020 IEEE 19th International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom), 2020: 468-474.（信息安全CCF C类会议，人工智能+域名分析方向）
-- 陈磊,薛见新,张润滋等.基于信息熵的数据集重标识风险评估方法[J].信息技术与网络安全,2020,39(12):1-6+12.DOI:10.19358/j.issn.2096-5133.2020.12.001.（中文核心，数据安全方向）
+- 陈磊, 薛见新, 张润滋等.基于信息熵的数据集重标识风险评估方法[J].信息技术与网络安全,2020,39(12):1-6+12.DOI:10.19358/j.issn.2096-5133.2020.12.001.（中文核心，数据安全方向）
 - Zhang R, Wang J, Chen X, et al. EDW-voting: Robust realtime traffic classification combined with flow side information[C]. 2018 Tenth International Conference on Advanced Computational Intelligence (ICACI), 2018: 438-442.（EI会议，人工智能+网络流量分析方向）
 - Zhang R, Wang J, Sheng Y, et al. Protocol-aware packet scheduling algorithm for multi-protocol processing in multi-core MPL architecture[J]. IEICE TRANSACTIONS on Information and Systems, 2017, 100(12): 2837-2846.（SCI四区，网络调度优化方向）
 
