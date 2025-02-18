@@ -39,7 +39,7 @@ My research interests focus on trustworthy AI for Cybersecurity (Network-level, 
                 <li><b>Security/Safety Alignment for LLMs</b></li>
             </ul>
             <ul>
-                <li><b>Security/Saftye Assessment for LLMs</b></li>
+                <li><b>Security Assessment for LLMs</b></li>
             </ul>
         </li>
     </ul>
