@@ -22,12 +22,27 @@ I am currently an Associate Professor at the Institute of Data Intelligence and 
 My research interests focus on trustworthy AI for Cybersecurity (Network-level, Data-level, Content-level, Cognition-level). I am now working on several directions including: 
 
 <div>
-<ul>          
-<li><b>LLMs for Security</b></li>
-<li><b>Alert Prioritization</b></li>
-<li><b>Security Knowledge Graph</b></li>
-<li><b>Provenance Graph Mining</b></li>    
-</ul>
+    <ul>
+        <li><b>AI(ML/DL/KG/LLMs) for Security</b>
+            <ul>
+                <li><b>Alert Prioritization</b></li>
+            </ul>
+            <ul>
+                <li><b>Provenance Graph Mining</b></li>
+            </ul>
+            <ul>
+                <li><b>Security Knowledge Graph</b></li>
+            </ul>
+        </li>
+        <li><b>Security for AI(ML/DL/KG/LLMs)</b>
+            <ul>
+                <li><b>Security/Safety Alignment for LLMs</b></li>
+            </ul>
+            <ul>
+                <li><b>Security/Saftye Assessment for LLMs</b></li>
+            </ul>
+        </li>
+    </ul>
 </div>
 
 <!-- # 🔥 News
